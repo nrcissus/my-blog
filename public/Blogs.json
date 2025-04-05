@@ -1,0 +1,52 @@
+[
+    {
+      "id": 1,
+      "cover": "https://images.unsplash.com/photo-1506765515384-028b60a970df?auto=format&fit=crop&w=800&q=80",
+      "title": "Exploring the Future of AI",
+      "author_img": "https://randomuser.me/api/portraits/men/32.jpg",
+      "author": "John Doe",
+      "posted_date": "2025-04-01",
+      "reading_time": "5 min read",
+      "hashtags": ["#AI", "#Technology", "#Future"]
+    },
+    {
+      "id": 2,
+      "cover": "https://images.unsplash.com/photo-1555949963-aa79dcee981d?auto=format&fit=crop&w=800&q=80",
+      "title": "10 Tips to Improve Your Coding Skills",
+      "author_img": "https://randomuser.me/api/portraits/women/44.jpg",
+      "author": "Alice Smith",
+      "posted_date": "2025-03-25",
+      "reading_time": "7 min read",
+      "hashtags": ["#Coding", "#Programming", "#Tips"]
+    },
+    {
+      "id": 3,
+      "cover": "https://images.unsplash.com/photo-1611078489935-1f0e4f59e084?auto=format&fit=crop&w=800&q=80",
+      "title": "The History of Hindu Scriptures",
+      "author_img": "https://randomuser.me/api/portraits/men/68.jpg",
+      "author": "Raj Verma",
+      "posted_date": "2025-03-18",
+      "reading_time": "6 min read",
+      "hashtags": ["#History", "#Religion", "#Hinduism"]
+    },
+    {
+      "id": 4,
+      "cover": "https://images.unsplash.com/photo-1576186726112-4cd0bfa1bd80?auto=format&fit=crop&w=800&q=80",
+      "title": "Healthy Living with Ancient Ayurveda",
+      "author_img": "https://randomuser.me/api/portraits/women/53.jpg",
+      "author": "Sneha Roy",
+      "posted_date": "2025-03-10",
+      "reading_time": "4 min read",
+      "hashtags": ["#Health", "#Ayurveda", "#Lifestyle"]
+    },
+    {
+      "id": 5,
+      "cover": "https://images.unsplash.com/photo-1610156212133-9023b92d3a23?auto=format&fit=crop&w=800&q=80",
+      "title": "Understanding Quantum Computing",
+      "author_img": "https://randomuser.me/api/portraits/men/27.jpg",
+      "author": "Alex Carter",
+      "posted_date": "2025-02-28",
+      "reading_time": "8 min read",
+      "hashtags": ["#Quantum", "#Computing", "#Science"]
+    }
+  ]
